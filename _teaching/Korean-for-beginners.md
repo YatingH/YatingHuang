@@ -5,7 +5,7 @@ type: "Korean for beginners"
 permalink: /teaching/Korean-for-beginners
 venue: "Seoul National University, Language Education Institute"
 date: 2014 - now
-location: "China, South Korea"
+location: "China and South Korea"
 ---
 
 Online Teaching
