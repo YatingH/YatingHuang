@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Yating Huang and my interest fields lie in Behavioral/ Experimental Economics, Applied Economics and Game Theory. I got the bachelor's degree of Economics at XMU where lies in south part of China. And then I went to Seoul National University for boarding my field of research and master's degree. During the master's period, I worked as a teaching assistant for Economics Mathematics and Studies in Microeconomics, 
+Hi! My name is Yating Huang and my interest fields lie in Behavioral, Experimental Economics, Applied Economics and Game Theory. I got the bachelor's degree of Economics at XMU where lies in south part of China. And then I went to Seoul National University for boarding my field of research and master's degree. During the master's period, I worked as a teaching assistant for Economics Mathematics and Studies in Microeconomics, 
 
 A data-driven personal website
 ======
