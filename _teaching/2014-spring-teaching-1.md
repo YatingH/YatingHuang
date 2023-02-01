@@ -4,12 +4,11 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Seoul National University, Department of Economics"
-date: 2021.06-2022.12
+date: June 2021 - Dec 2022
 location: "Seoul, South Korea"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+Teaching Assistant to Prof.Changmin Kang 
 Heading 1
 ======
 
