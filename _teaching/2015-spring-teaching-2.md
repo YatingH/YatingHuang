@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Stuides in Microeconomics"
 collection: teaching
-type: "Workshop"
+type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Seoul National University, Department of Economics"
+date: Feb 2023
+location: "Seoul,South Korea"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assistant to Prof. Dmitry Shapiro
 
 Heading 1
 ======
