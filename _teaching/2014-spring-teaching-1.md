@@ -1,5 +1,5 @@
 ---
-title: "Economics Mathematics"
+title: "Economic Mathematics"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
