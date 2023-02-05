@@ -10,8 +10,7 @@ location: "Seoul,South Korea"
 
 Teaching Assistant to Prof. Changmin Kang, June 2021 to Dec 2022
 
-Heading 1
-======
+
 
 Heading 2
 ======
