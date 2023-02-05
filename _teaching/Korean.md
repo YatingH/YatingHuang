@@ -2,7 +2,7 @@
 title: "Korean"
 collection: teaching
 type: "Online Course"
-permalink: /teaching/Korean
+permalink: [/teaching/Korean]
 venue: "Seoul National University, Language Educational Institute"
 date: 2014
 location: "Online"
